@@ -1,1 +1,1 @@
-# Random-Map
+# Map generator
